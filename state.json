@@ -1,0 +1,55 @@
+{
+    "quizzes": [
+        {
+            "question": "Python은 어떤 언어인가요?",
+            "choices": [
+                "프로그래밍 언어",
+                "운영체제",
+                "웹 브라우저",
+                "게임기"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Python에서 출력할 때 사용하는 함수는?",
+            "choices": [
+                "input()",
+                "print()",
+                "len()",
+                "int()"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Python에서 목록을 저장하는 자료형은?",
+            "choices": [
+                "str",
+                "int",
+                "list",
+                "bool"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Python에서 조건문에 사용하는 키워드는?",
+            "choices": [
+                "for",
+                "while",
+                "if",
+                "def"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Python 파일의 확장자는?",
+            "choices": [
+                ".txt",
+                ".html",
+                ".json",
+                ".py"
+            ],
+            "answer": 4
+        }
+    ],
+    "best_score": 1
+}
